@@ -33,9 +33,5 @@ St. Andrews Institute of Technology & Management, Gurugram, Haryana
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=radical)
 
-## Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu012&repo=fullbackend_inoneshot)](https://github.com/Abhimanyu012/fullbackend_inoneshot)
 
-## Fun Facts
-- 🕒 I've been coding for over 3 hours straight, and CRUD operations are my favorite (except delete, just kidding!).  
-- 🧑‍💻 I enjoy learning through hands-on projects and building things from scratch.
+
