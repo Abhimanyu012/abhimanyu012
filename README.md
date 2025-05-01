@@ -1,11 +1,34 @@
-# Hi there 👋, I'm Abhimanyu!
+# Hi there 👋, I'm Abhimanyu Kumar!
 
-Welcome to my GitHub profile! I'm a passionate developer working on full-stack projects, with a deep interest in backend systems.
+📞 +91-9729171589  |  ✉️ abhimanyucode2021@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/avymanyu0012)  |  💻 [GitHub](https://github.com/Abhimanyu012)
 
-- 🔭 Currently working on: Full-stack development and backend optimizations
-- 🌱 Learning: Advanced backend systems, cloud computing, and DevOps practices
-- 💬 Ask me about: JavaScript, Node.js, Express.js, and EJS
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avymanyu0012/) | [Email](mailto:abhimanyucode2021@gmail.com)
+## OBJECTIVE
+2nd-year Computer Science student with hands-on experience in MERN stack development. Eager to contribute to real-world projects as a backend/full-stack intern. Actively building projects and exploring scalable backend solutions.
+
+## Languages and Frameworks 
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Mongoose  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+## EDUCATION
+**B.Tech in Computer Science & Engineering**  
+St. Andrews Institute of Technology & Management, Gurugram, Haryana  
+2023 – Present | Currently in 2nd Year
+
+## PROJECTS
+### Portfolio Website
+- **Description:** Built a responsive portfolio using HTML, CSS, and JavaScript. Showcases skills, projects, and contact info.  
+- **Hosted on Vercel:** [Visit Portfolio](https://avymanyu-portfolio-pink-five.vercel.app/)
+
+## CERTIFICATIONS
+- **Introduction to MERN Stack** (Simplilearn - 2024)  
+- **Introduction to Frontend Development** (Simplilearn - 2024)  
+
+## EXTRACURRICULAR
+- Active member of the college coding club.  
+- Participate in weekly problem-solving sessions, continuously learning full-stack development with a focus on backend systems.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=radical)
@@ -14,5 +37,5 @@ Welcome to my GitHub profile! I'm a passionate developer working on full-stack p
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu012&repo=fullbackend_inoneshot)](https://github.com/Abhimanyu012/fullbackend_inoneshot)
 
 ## Fun Facts
-- 🕒 I've been coding for over 3 hours straight, and CRUD operations are my favorite (except delete, just kidding!).
+- 🕒 I've been coding for over 3 hours straight, and CRUD operations are my favorite (except delete, just kidding!).  
 - 🧑‍💻 I enjoy learning through hands-on projects and building things from scratch.
