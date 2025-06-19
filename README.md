@@ -4,7 +4,7 @@
 🔗 [LinkedIn](https://linkedin.com/in/avymanyu0012)  |  💻 [GitHub](https://github.com/Abhimanyu012)
 
 ## OBJECTIVE
-2nd-year Computer Science student with hands-on experience in MERN stack development. Eager to contribute to real-world projects as a backend/full-stack intern. Actively building projects and exploring scalable backend solutions.
+3rd-year Computer Science student with hands-on experience in MERN stack development. Eager to contribute to real-world projects as a backend/full-stack intern. Actively building projects and exploring scalable backend solutions.
 
 ## Languages and Frameworks 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
@@ -15,7 +15,7 @@
 ## EDUCATION
 **B.Tech in Computer Science & Engineering**  
 St. Andrews Institute of Technology & Management, Gurugram, Haryana  
-2023 – Present | Currently in 2nd Year
+2023 – Present | Currently in 3rd Year
 
 ## PROJECTS
 ### Portfolio Website
