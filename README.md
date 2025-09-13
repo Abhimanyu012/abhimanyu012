@@ -26,7 +26,7 @@ St. Andrews Institute of Technology & Management, Gurugram, Haryana
 - Applied prompt engineering techniques to guide the AI model, ensuring the generated content was tailored for a retail audience and aligned with brand voice.
 
 ### Personal Portfolio Website
-- **Personal portfolio:** abhi-code-canvas.lovable.app
+- **Personal portfolio:** https://abhi-code-canvas.lovable.app/
 - Utilized the Lovable.ai platform to rapidly build and deploy a professional portfolio that showcases technical projects and skills.
 - Leveraged the platform's built-in Generative AI, applying prompt engineering strategies to generate compelling first-drafts for project descriptions and a professional summary.
 - Directed and refined the AI-generated content to ensure technical accuracy and a personalized tone, demonstrating proficiency in guiding AI tools to produce a polished final product.
