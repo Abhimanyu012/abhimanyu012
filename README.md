@@ -36,10 +36,13 @@ St. Andrews Institute of Technology & Management, Gurugram, Haryana
 - Engineered a real-time chat application using the MERN stack and Socket.io to facilitate instant, bidirectional user communication.
 - Built a secure RESTful backend with Express.js for JWT user authentication and persisted all chat and user data with MongoDB.
 - Developed a responsive React frontend and managed the full-stack deployment to Vercel and Render.
+##EXPERIENCE
+-FROM 30 MAY TO CURRENT INTERN AT DIGITAL GURUJI AS A FULLSTACK DEVELOPER( MERN )
 
 ## CERTIFICATIONS
 - **Introduction to MERN Stack** (Simplilearn - 2024)  
 - **Introduction to Frontend Development** (Simplilearn - 2024)  
+
 
 ## EXTRACURRICULAR
 - Active member of the college coding club.  
