@@ -40,7 +40,7 @@ St. Andrews Institute of Technology & Management, Gurugram, Haryana
 ### EXPERIENCE
 - Intern at Digital Guruji as a fullstack developer( MERN |June - Current )
 
-## CERTIFICATIONS
+### CERTIFICATIONS
 - **Introduction to MERN Stack** (Simplilearn - 2024)  
 - **Introduction to Frontend Development** (Simplilearn - 2024)  
 
