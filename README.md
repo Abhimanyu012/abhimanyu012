@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abhimanyu Kumar!
+#👋, I'm Abhimanyu Kumar!
 
 📞 +91-9729171589  |  ✉️ abhimanyucode2021@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/avymanyu0012)  |  💻 [GitHub](https://github.com/Abhimanyu012)
