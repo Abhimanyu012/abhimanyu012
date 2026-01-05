@@ -38,7 +38,8 @@ St. Andrews Institute of Technology & Management, Gurugram, Haryana
 - Developed a responsive React frontend and managed the full-stack deployment to Vercel and Render.
   
 ### EXPERIENCE
-- Intern at Digital Guruji as a fullstack developer( MERN |June - Current )
+- Intern at Digital Guruji as a fullstack developer( MERN |June 2025 - Current )
+- I learnt so many things like generative ai tools and build frontendUI of so many projects.
 
 ### CERTIFICATIONS
 - **Introduction to MERN Stack** (Simplilearn - 2024)  
