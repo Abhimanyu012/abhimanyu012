@@ -8,8 +8,8 @@
 
 ## Languages and Frameworks 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Mongoose  
-- **Database:** MongoDB  
+- **Backend:** Node.js, Express.js, Mongoose ,Drizzle 
+- **Database:** MongoDB,PostgreSql
 - **Tools:** Git, GitHub, VS Code, Postman  
 
 ## EDUCATION
