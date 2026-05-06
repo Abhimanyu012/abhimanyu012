@@ -17,18 +17,18 @@
     <img src="https://img.shields.io/badge/Location-Gurugram-3B82F6?style=flat" alt="Location" />
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Building+reliable+web+apps+with+clean+architecture;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;AI-assisted+features+with+secure+auth+and+payments" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Building+reliable+web+apps+with+clean+architecture;Type[...]
 </div>
 
 <p align="center">
-  <img src="https://github.com/Abhimanyu012/Abhimanyu012/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Abhimanyu012/Abhimanyu012/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
 
 ## About
 
-Full-stack developer focused on building reliable web apps with clean architecture, TypeScript, and modern React. I enjoy building AI-assisted features, authentication flows, and payment integrations with a strong emphasis on maintainable code and performance.
+Full-stack developer focused on building reliable web apps with clean architecture, TypeScript, and modern React. I enjoy building AI-assisted features, authentication flows, and payment integrations [...]
 
 ---
 
@@ -183,10 +183,10 @@ Coursework: Data Structures & Algorithms (C++), DBMS, Web Technology
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu012&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu012&layout=compact&theme=tokyonight&hide_border=true&v=1" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhimanyu012&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Abhimanyu012&theme=tokyonight&hide_border=true&v=1" />
 </p>
