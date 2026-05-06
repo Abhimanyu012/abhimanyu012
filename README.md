@@ -1,26 +1,28 @@
-<h1 align="center">Abhimanyu Kumar</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0EA5E9&height=120&section=header&text=Abhimanyu%20Kumar&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="header" />
 
-<p align="center">
-  <b>Full-Stack Developer • MERN • TypeScript • AI-Assisted Apps</b>
-</p>
+  <p>
+    <b>Full-Stack Developer • MERN • TypeScript • AI-Assisted Apps</b>
+  </p>
 
-<p align="center">
-  <a href="mailto:abhimanyucode2021@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/Abhimanyu0012">LinkedIn</a> ·
-  <a href="https://github.com/Abhimanyu012">GitHub</a>
-</p>
+  <p>
+    <a href="mailto:abhimanyucode2021@gmail.com">Email</a> ·
+    <a href="https://linkedin.com/in/Abhimanyu0012">LinkedIn</a> ·
+    <a href="https://github.com/Abhimanyu012">GitHub</a>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhimanyu012&style=flat-square&color=7C3AED" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Gurugram-3b82f6?style=flat-square" alt="Location" />
-</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Abhimanyu012&style=flat-square&color=7C3AED" alt="profile views" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Location-Gurugram-3b82f6?style=flat-square" alt="Location" />
+  </p>
+</div>
 
 ---
 
 ## ⚡ About Me
 
-Full-Stack Developer with 10 months of hands-on experience building and shipping production-grade applications using the MERN stack, TypeScript, and AI-assisted tools. Strong focus on clean architecture, reusable components, and secure APIs.
+Full-Stack Developer with 10 months of hands-on experience building and shipping production-grade applications using the MERN stack, TypeScript, and AI-assisted tools. Strong focus on clean architecture, rapid iteration, and reliable delivery.
 
 ---
 
