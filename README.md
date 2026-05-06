@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:3B82F6&height=110&section=header&text=Abhimanyu%20Kumar&fontSize=34&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:3B82F6&height=120&section=header&text=Abhimanyu%20Kumar&fontSize=36&fontColor=ffffff" alt="Abhimanyu Kumar header" />
 
   <p>
     <b>Full-Stack Developer • MERN • TypeScript • AI-Assisted Products</b>
@@ -14,30 +14,30 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=Abhimanyu012&style=flat&color=3B82F6" alt="profile views" />
     <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/Location-Gurugram-3B82F6?style=flat" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Gurugram-3B82F6?style=flat" alt="Location Gurugram" />
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Building+reliable+web+apps+with+clean+architecture;Type[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=540&lines=Building+reliable+web+apps+with+clean+architecture;Shipping+TypeScript+products+fast+and+safe;Designing+scalable+React+UX+flows" alt="Typing intro" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhimanyu012/Abhimanyu012/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Abhimanyu012/abhimanyu012/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
 
 ## About
 
-Full-stack developer focused on building reliable web apps with clean architecture, TypeScript, and modern React. I enjoy building AI-assisted features, authentication flows, and payment integrations [...]
+Full-stack developer focused on building reliable web apps with clean architecture, TypeScript, and modern React. I enjoy building AI-assisted features, authentication flows, and payment integrations that scale.
 
 ---
 
 ## Highlights
 
-- Built and shipped multiple production-grade web apps using the MERN stack.
-- Experience delivering end-to-end features: API design, UI implementation, and deployment.
-- Strong focus on reusable components, type-safe patterns, and clean code reviews.
-- Comfortable with AI-assisted development workflows and rapid prototyping.
+- Shipped production-grade web apps using the MERN stack.
+- Delivered end-to-end features: API design, UI implementation, and deployment.
+- Strong focus on reusable components, type-safe patterns, and clean reviews.
+- Comfortable with AI-assisted workflows and rapid prototyping.
 
 ---
 
@@ -183,10 +183,10 @@ Coursework: Data Structures & Algorithms (C++), DBMS, Web Technology
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu012&layout=compact&theme=tokyonight&hide_border=true&v=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu012&layout=compact&theme=tokyonight&hide_border=true&v=1" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhimanyu012&theme=tokyonight&hide_border=true&v=1" />
+  <img src="https://streak-stats.demolab.com?user=Abhimanyu012&theme=tokyonight&hide_border=true&v=1" alt="GitHub streak" />
 </p>
