@@ -16,7 +16,13 @@
     <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat" alt="Open to Work" />
     <img src="https://img.shields.io/badge/Location-Gurugram-3B82F6?style=flat" alt="Location" />
   </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Building+reliable+web+apps+with+clean+architecture;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;AI-assisted+features+with+secure+auth+and+payments" alt="typing animation" />
 </div>
+
+<p align="center">
+  <img src="https://github.com/Abhimanyu012/Abhimanyu012/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
 
 ---
 
