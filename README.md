@@ -17,18 +17,18 @@
     <img src="https://img.shields.io/badge/Location-Gurugram-3B82F6?style=flat" alt="Location Gurugram" />
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=540&lines=Building+reliable+web+apps+with+clean+architecture;Shipping+TypeScript+products+fast+and+safe;Designing+scalable+React+UX+flows" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=540&lines=Building+reliable+web+apps+with+clean+architecture;Ship[...]">
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhimanyu012/abhimanyu012/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Abhimanyu012/abhimanyu012/output/github-contribution-grid-snake.svg?cache=2026-05-06" alt="Contribution snake" />
 </p>
 
 ---
 
 ## About
 
-Full-stack developer focused on building reliable web apps with clean architecture, TypeScript, and modern React. I enjoy building AI-assisted features, authentication flows, and payment integrations that scale.
+Full-stack developer focused on building reliable web apps with clean architecture, TypeScript, and modern React. I enjoy building AI-assisted features, authentication flows, and payment integrations [...]
 
 ---
 
@@ -43,78 +43,60 @@ Full-stack developer focused on building reliable web apps with clean architectu
 
 ## Tech Stack
 
-<details>
-  <summary><b>Languages</b></summary>
-  <br/>
+### Languages
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-</details>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<details>
-  <summary><b>Frontend</b></summary>
-  <br/>
+### Frontend
 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-111827?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Component Architecture](https://img.shields.io/badge/Component%20Architecture-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
-</details>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Component Architecture](https://img.shields.io/badge/Component%20Architecture-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<details>
-  <summary><b>Backend</b></summary>
-  <br/>
+### Backend
 
-  ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![REST APIs](https://img.shields.io/badge/REST%20APIs-1E293B?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![RBAC](https://img.shields.io/badge/RBAC-334155?style=for-the-badge&logo=auth0&logoColor=white)
-  ![Webhooks](https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge&logo=webhooks&logoColor=white)
-</details>
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1E293B?style=for-the-badge&logo=fastapi&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-334155?style=for-the-badge&logo=auth0&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge&logo=webhooks&logoColor=white)
 
-<details>
-  <summary><b>Databases</b></summary>
-  <br/>
+### Databases
 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
-  ![Schema Design](https://img.shields.io/badge/Schema%20Design-0F172A?style=for-the-badge&logo=databricks&logoColor=white)
-  ![Indexing](https://img.shields.io/badge/Indexing-111827?style=for-the-badge&logo=elastic&logoColor=white)
-  ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-0F172A?style=for-the-badge&logo=prisma&logoColor=white)
-  ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-111827?style=for-the-badge&logo=drizzle&logoColor=white)
-  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-</details>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Schema Design](https://img.shields.io/badge/Schema%20Design-0F172A?style=for-the-badge&logo=databricks&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing-111827?style=for-the-badge&logo=elastic&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-0F172A?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-111827?style=for-the-badge&logo=drizzle&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-<details>
-  <summary><b>Auth, AI & Payments</b></summary>
-  <br/>
+### Auth, AI & Payments
 
-  ![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-  ![bcryptjs](https://img.shields.io/badge/bcryptjs-1F2937?style=for-the-badge&logo=keycloak&logoColor=white)
-  ![Protected Routes](https://img.shields.io/badge/Protected%20Routes-111827?style=for-the-badge&logo=auth0&logoColor=white)
-  ![Payment Verification](https://img.shields.io/badge/Payment%20Verification-0F172A?style=for-the-badge&logo=razorpay&logoColor=white)
-  ![Google GenAI](https://img.shields.io/badge/Google%20GenAI-1F2937?style=for-the-badge&logo=google&logoColor=white)
-  ![Groq SDK](https://img.shields.io/badge/Groq%20SDK-0F172A?style=for-the-badge&logo=groq&logoColor=white)
-  ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white)
-  ![Razorpay](https://img.shields.io/badge/Razorpay-0F172A?style=for-the-badge&logo=razorpay&logoColor=white)
-</details>
+![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-1F2937?style=for-the-badge&logo=keycloak&logoColor=white)
+![Protected Routes](https://img.shields.io/badge/Protected%20Routes-111827?style=for-the-badge&logo=auth0&logoColor=white)
+![Payment Verification](https://img.shields.io/badge/Payment%20Verification-0F172A?style=for-the-badge&logo=razorpay&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google%20GenAI-1F2937?style=for-the-badge&logo=google&logoColor=white)
+![Groq SDK](https://img.shields.io/badge/Groq%20SDK-0F172A?style=for-the-badge&logo=groq&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0F172A?style=for-the-badge&logo=razorpay&logoColor=white)
 
-<details>
-  <summary><b>Tools & Cloud</b></summary>
-  <br/>
+### Tools & Cloud
 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-  ![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-1F2937?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white)
-  ![Lovable.ai](https://img.shields.io/badge/Lovable.ai-111827?style=for-the-badge&logo=bolt&logoColor=white)
-</details>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1F2937?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Lovable.ai](https://img.shields.io/badge/Lovable.ai-111827?style=for-the-badge&logo=bolt&logoColor=white)
 
 ---
 
@@ -183,10 +165,10 @@ Coursework: Data Structures & Algorithms (C++), DBMS, Web Technology
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu012&layout=compact&theme=tokyonight&hide_border=true&v=1" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu012&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhimanyu012&theme=tokyonight&hide_border=true&v=1" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Abhimanyu012&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </p>
