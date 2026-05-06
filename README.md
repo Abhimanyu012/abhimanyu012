@@ -1,54 +1,80 @@
-#👋, I'm Abhimanyu Kumar
+# Abhimanyu Kumar
 
-📞 +91-9729171589  |  ✉️ abhimanyucode2021@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/avymanyu0012)  |  💻 [GitHub](https://github.com/Abhimanyu012)
+📞 +91-9729171589  
+✉️ abhimanyucode2021@gmail.com  
+[LinkedIn](https://linkedin.com/in/Abhimanyu0012) | [GitHub](https://github.com/Abhimanyu012)
 
-## OBJECTIVE
-3rd-year Computer Science student with hands-on experience in MERN stack development. Eager to contribute to real-world projects as a backend/full-stack intern. Actively building projects and exploring new technologies.
+---
 
-## Languages and Frameworks 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Mongoose ,Drizzle 
-- **Database:** MongoDB,PostgreSql
-- **Tools:** Git, GitHub, VS Code, Postman  
+## Professional Summary
 
-## EDUCATION
-**B.Tech in Computer Science & Engineering**  
-St. Andrews Institute of Technology & Management, Gurugram, Haryana  
-2023 – Present | Currently in 3rd Year
+Full-Stack Developer with 10 months of hands-on experience building and shipping production-grade applications using the MERN stack, TypeScript, and AI-assisted tools. Proven ability to design and deliver secure, maintainable web applications — from database schema and REST API development to responsive React frontends with live payment and AI-powered features. Strong background in C++ and data structures, informing robust API design, modeling, and performance.
 
-## PROJECTS
+---
 
-### Generative AI E-commerce Platform
-- **GenAI Version:** https://abhimanyu012.github.io/ecommerce-_with_generative_AI/
-- Engineered a dynamic e-commerce frontend using React and TypeScript, specifically designed to showcase the integration of Generative AI capabilities.
-- Designed and implemented a core feature that leverages a Generative AI API to auto-generate unique and persuasive product descriptions from minimal user input.
-- Applied prompt engineering techniques to guide the AI model, ensuring the generated content was tailored for a retail audience and aligned with brand voice.
+## Skills
 
-### Personal Portfolio Website
-- **Personal portfolio:** https://abhi-code-canvas.lovable.app/
-- Utilized the Lovable.ai platform to rapidly build and deploy a professional portfolio that showcases technical projects and skills.
-- Leveraged the platform's built-in Generative AI, applying prompt engineering strategies to generate compelling first-drafts for project descriptions and a professional summary.
-- Directed and refined the AI-generated content to ensure technical accuracy and a personalized tone, demonstrating proficiency in guiding AI tools to produce a polished final product.
+- **Languages:** TypeScript, JavaScript (ES6+), C++
+- **Frontend:** React.js (v18/19), Tailwind CSS, HTML5, Responsive Design, Component Architecture
+- **Backend:** Node.js, Express.js, REST API Design, RBAC, Webhook Handling
+- **Databases:** PostgreSQL, MongoDB, Schema Design, Indexing, Prisma ORM, Drizzle ORM, Mongoose
+- **Auth & Security:** JWT Authentication, bcryptjs, Protected API Routes, Payment Verification
+- **AI & Payments:** Google Generative AI, Groq SDK, Razorpay API, Prompt Engineering
+- **Tools & Cloud:** Git, GitHub, Postman, Vercel, Netlify, Render, CI/CD, GitHub Copilot, Lovable.ai
 
-### Real-Time Chat Application
-- **Live:** https://chat-frontend-nine-phi.vercel.app/
-- Engineered a real-time chat application using the MERN stack and Socket.io to facilitate instant, bidirectional user communication.
-- Built a secure RESTful backend with Express.js for JWT user authentication and persisted all chat and user data with MongoDB.
-- Developed a responsive React frontend and managed the full-stack deployment to Vercel and Render.
-  
-### EXPERIENCE
-- Intern at Digital Guruji as a fullstack developer( MERN |June 2025 - Current )
-- I learnt so many things like generative ai tools and build frontendUI of so many projects.
+---
 
-### CERTIFICATIONS
-- **Introduction to MERN Stack** (Simplilearn - 2024)  
-- **Introduction to Frontend Development** (Simplilearn - 2024)  
+## Experience
 
+**Full-Stack Developer Intern**  
+Digital Guruji (Remote) | Jun 2025 – Apr 2026
 
-## EXTRACURRICULAR
-- Active member of the college coding club.  
-- Participate in weekly problem-solving sessions, continuously learning full-stack development with a focus on backend systems.
+- Delivered 30+ full-stack projects using GitHub Copilot, Lovable.ai, and Antigravity for rapid scaffolding, then fully refactored builds for clean architecture, reusable components, and high code quality.
+- Established robust pre-delivery reviews (API contract validation, input checks, component logic review), resulting in zero client bug reports or rollbacks.
+- Owned the full lifecycle: translating requirements into typed component trees, connecting frontends to APIs, and shipping maintainable codebases.
+
+---
+
+## Projects
+
+### The Golf Draw  
+React • TypeScript • Node.js • Express.js • Drizzle ORM • Razorpay  
+_Tournament management with automated draw generation and live payment integration_
+- Architected a fully decoupled system with independent deployments for backend (Express/Drizzle ORM) and frontend (React/TypeScript) on Vercel.
+- Engineered a secure Razorpay payment flow (order creation, webhook verification for backend confirmation).
+- Leveraged TypeScript strict mode to eliminate integration bugs at build time.
+
+### AI Educational Counselling Platform  
+React 19 • Node.js • Express.js • Prisma • PostgreSQL • Groq SDK  
+_Study-abroad guidance with AI-powered university recommendations_
+- Integrated dual AI model system (Google GenAI + Groq fallback), using student context for relevant responses.
+- Designed relational PostgreSQL database (Prisma) optimized with foreign keys/indexes for scale.
+- Secured all routes with JWT authentication, bcryptjs hashing, and Express middleware.
+
+### GigFlow — Freelance Marketplace  
+React • Node.js • Express.js • MongoDB • Mongoose  
+- Designed a marketplace supporting listing services, placing orders, and reviews.
+- Optimized queries using indexes for all major entities (Users, Gigs, Orders, Reviews).
+- Implemented RBAC for strict access control in the API.
+
+---
+
+## Education
+
+**B.Tech, Computer Science & Engineering**  
+St. Andrews Institute of Technology & Management, MDU — Gurugram, Haryana  
+_Coursework:_ Data Structures & Algorithms (C++), DBMS, Web Technology
+
+---
+
+## Certifications
+
+- Introduction to MERN Stack — Simplilearn, 2024
+- Introduction to Frontend Development — Simplilearn, 2024
+
+---
 
 ## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=radical)
+
