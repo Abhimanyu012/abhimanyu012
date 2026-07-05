@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Location-Gurugram-3B82F6?style=flat" alt="Location Gurugram" />
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=540&lines=Building+reliable+web+apps+with+clean+architecture;Ship[...]">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=540&lines=Building+reliable+web+apps+with+clean+architecture">
 </div>
 
 <p align="center">
