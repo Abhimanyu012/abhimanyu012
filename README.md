@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:3B82F6&height=120&section=header&text=Abhimanyu%20Kumar&fontSize=36&fontColor=ffffff" alt="Abhimanyu Kumar header" />
 
   <p>
-    <b>Full-Stack Developer • MERN • TypeScript • AI-Assisted Products</b>
+    <b>Full-Stack Developer • MERN • TypeScript • AI-Assisted Coding</b>
   </p>
 
   <p>
