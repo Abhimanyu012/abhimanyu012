@@ -150,7 +150,7 @@ Full-stack developer focused on building reliable web apps with clean architectu
 ## Education
 
 **B.Tech, Computer Science & Engineering**
-St. Andrews Institute of Technology & Management, MDU — Gurugram, Haryana
+St. Andrews Institute of Technology & Management, MDU — Rohtak, Gurugram, Haryana
 
 Coursework: Data Structures & Algorithms (C++), DBMS, Web Technology
 
@@ -158,7 +158,7 @@ Coursework: Data Structures & Algorithms (C++), DBMS, Web Technology
 
 ## Certifications
 
-- Introduction to MERN Stack — Simplilearn, 2024
+- Introduction to Mern Stack — Simplilearn, 2024
 - Introduction to Frontend Development — Simplilearn, 2024
 
 ---
