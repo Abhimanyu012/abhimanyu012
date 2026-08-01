@@ -165,10 +165,7 @@ Coursework: Data Structures & Algorithms (C++), DBMS, Web Technology
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu012&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhimanyu012&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
