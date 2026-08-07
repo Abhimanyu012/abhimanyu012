@@ -9,7 +9,7 @@
     <a href="mailto:abhimanyucode2021@gmail.com">Email</a> ·
     <a href="https://linkedin.com/in/Abhimanyu0012">LinkedIn</a> ·
     <a href="https://github.com/Abhimanyu012">GitHub</a>
-    <a href="https://github.com/Abhimanyu012">Portfolio</a>
+   
   </p>
 
   <p>
